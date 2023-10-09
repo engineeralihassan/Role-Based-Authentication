@@ -1,0 +1,31 @@
+.user-form{
+   
+    min-width:800px;
+ 
+ }
+ .user-form input{
+     width: 100% !important;
+    
+ }
+ .form-hello{
+    
+     width:100% !important;
+ }
+ 
+ 
+ .passfild input{
+  
+     width: 90% !important;
+ }
+ .passbtn{
+     cursor: pointer;
+ }
+ .btns{
+     margin-top: 20px;
+     display: flex;
+     gap: 1rem;
+ }
+ button a{
+    text-decoration: none;
+    color: aliceblue;
+ }

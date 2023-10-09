@@ -1,5 +1,23 @@
 {
-"user":[
-  
-]
+  "user": [
+    {
+      "id": "2023-10-09T03:53:21.999Z",
+      "name": "sdsdc",
+      "email": "ali@gmail.com",
+      "password": "ali@gmail.c",
+      "gender": "femail",
+      "isactive": false,
+      "role": ""
+    },
+    {
+      "id": "2023-10-09T03:56:08.036Z",
+      "name": "arslan11",
+      "email": "arslan@gmail.com",
+      "password": "arslan123",
+      "gender": "male",
+      "isactive": true,
+      "role": "admin"
+    }
+  ]
+
 }

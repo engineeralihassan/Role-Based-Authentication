@@ -1,0 +1,10 @@
+.mat-elevation-z8{
+    width: 900px;
+}
+.mat-elevation-z8 table th{
+    background-color: black;
+     color: wheat;
+}
+.mat-elevation-z8 table td,tr{
+    border: 1px solid black;
+}
